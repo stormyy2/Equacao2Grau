@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Equacao2Grau</string>
+    <string name="valorA">Valor de A</string>
+    <string name="valorB">Valor de B</string>
+    <string name="valorC">Valor de C</string>
+    <string name="calcular">Calcular</string>
+    <string name="delta">Valor de Delta: </string>
+    <string name="r1">Raiz 1: </string>
+    <string name="r2">Raiz 2: </string>
+</resources>
